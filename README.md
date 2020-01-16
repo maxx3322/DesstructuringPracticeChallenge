@@ -1,2 +1,0 @@
-# DesstructuringPracticeChallenge
-Created with CodeSandbox
